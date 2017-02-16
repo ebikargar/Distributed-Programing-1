@@ -2,6 +2,6 @@
 
 This Repo includes my solutions for Distributed Programming I assignments @ Polytechnic University Of Turin
 
-Implemented by: Ebrahim Kargar
+# Implemented by: Ebrahim Kargar
 
-Academic Year: 2015-2016
+# Academic Year: 2015-2016
